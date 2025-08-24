@@ -20,5 +20,3 @@ This project demonstrates basic **CRUD operations** (Create, Read, Update, Delet
 - **Tabulate** (for formatted output)  
 
 ---
-
-## 📂 Project Structure
