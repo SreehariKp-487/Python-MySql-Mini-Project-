@@ -20,3 +20,22 @@ This project demonstrates basic **CRUD operations** (Create, Read, Update, Delet
 - **Tabulate** (for formatted output)  
 
 ---
+
+**Clone the repo**
+git clone https://github.com/your-username/Python-MySQL-mini-project.git
+cd Python-MySQL-mini-project
+
+**Install dependencies**
+pip install tabulate mysql-connector-python
+
+**Run**
+python playlist.py
+
+**Example Output**
+============= Your Playlist =============
+╒════╤════════════════╤═════════════════╕
+│ ID │ Songs          │ Artist          │
+╞════╪════════════════╪═════════════════╡
+│  1 │ Shape of You   │ Ed Sheeran      │
+│  2 │ Believer       │ Imagine Dragons │
+╘════╧════════════════╧═════════════════╛
