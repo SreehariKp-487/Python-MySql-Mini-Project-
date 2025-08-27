@@ -1,4 +1,4 @@
-Python + MySQL Mini Project 🎵
+## Python + MySQL Mini Project 🎵
 
 A simple **Python + MySQL mini project** for managing a music playlist.  
 This project demonstrates basic **CRUD operations** (Create, Read, Update, Delete) with MySQL, while using Python for interaction.  
